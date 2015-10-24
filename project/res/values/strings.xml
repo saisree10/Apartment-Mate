@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apartment Mate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="city_prompt">Select a City</string>
+    
+    <string-array name="cities">
+        <item>Alexandria</item>
+        <item >Baton rogue</item>
+        <item >Lafayette</item>
+        <item >Monroe</item>
+        <item >New orleans</item>
+    </string-array>
+    
+   
+</resources>
